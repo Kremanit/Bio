@@ -9,4 +9,4 @@
 <a href="https://vk.com/kremanit" rel="nofollow"><img src="https://camo.githubusercontent.com/7a52a3ddcad5bc26d495e5bea7a67263a4686b1e19f44ec07cd85ed6892bf9b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566b6f6e74616b74652d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d566b266c6f676f436f6c6f723d344637444233" style="max-width: 100%;"></a>
 <a href="https://vk.com/kremanit" rel="nofollow"><img src="https://camo.githubusercontent.com/c83dc3454d03ec4f28e13a71ccf86dcca5bd02111f6c685e311a44f4080ab91f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d537465616d266c6f676f436f6c6f723d464646464646" style="max-width: 100%;"></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kremanit)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kremanit&theme=bear)
