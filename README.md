@@ -11,4 +11,4 @@
 <a href="https://steamcommunity.com/id/kremanit/" rel="nofollow"><img src="https://camo.githubusercontent.com/c83dc3454d03ec4f28e13a71ccf86dcca5bd02111f6c685e311a44f4080ab91f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537465616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d537465616d266c6f676f436f6c6f723d464646464646" style="max-width: 100%;"></a>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=kremanit&theme=bear)](https://streamhub.life/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremanit&hide=procfile)](https://streamhub.life/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremanit&hide=procfile&theme=bear)](https://streamhub.life/)
