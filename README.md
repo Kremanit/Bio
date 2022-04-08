@@ -12,3 +12,4 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=kremanit&theme=bear)](https://streamhub.life/) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremanit&hide=procfile&theme=bear)](https://streamhub.life/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kremanit&layout=compact&theme=bear&hide=procfile)](https://github.com/anuraghazra/github-readme-stats)
